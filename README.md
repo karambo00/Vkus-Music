@@ -1,6 +1,6 @@
-yandex.com, 67082786, DIRECT
-betweendigital.com, 43554, RESELLER
-openx.com, 541177349, RESELLER, 6a698e2ec38604c6
+yandex.com, 67082786, DIRECT/n
+betweendigital.com, 43554, RESELLER/n
+openx.com, 541177349, RESELLER, 6a698e2ec38604c6/n
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19724, RESELLER, 0bfd66d529a55807
 adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
